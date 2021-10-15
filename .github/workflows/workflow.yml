@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env: 
-    AZURE_RESOURCEGROUP_NAME: ToyWebsite
+    AZURE_RESOURCEGROUP_NAME: ToyWebsiteTest
     ENVIRONMENT_TYPE: Test
 
 jobs:
